@@ -1,13 +1,14 @@
-============================================================
- DC-Auto Deploy: Domain Controller Deployment Tool
-============================================================
+# DC-Auto Deploy
+Domain Controller Deployment Tool
 
-Author:        Francisco Xavier Montano III / Team Wildlands
-Version:       3.2.0
-Date:          2025-09-01
-License:       N/A
-Contact:       Francisco.Montano@RTX.com
-Repository:    N/A
+## Metadata
+| Field         | Attribute
+| ---------     | -----------------------
+| Author:       | Francisco Xavier Montano III / Team Wildlands
+| Version:      | 3.2.0
+| Date:         | 2025-09-01
+| Contact:      | N/A
+| Repository:   | N/A
 
 ------------------------------------------------------------
 DESCRIPTION
